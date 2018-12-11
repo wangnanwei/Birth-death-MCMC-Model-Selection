@@ -5,8 +5,13 @@ Bayesian Model Selection", which is included in this repository as pdf file "bay
 
 # Running this programs
 
-The file "bdmcmc algorithm" contains two functions "bdmcmc", and "bdmcmcbin", which are BDMCMC alrotithms for linear regression and 
+1. The file "bdmcmc algorithm" contains two functions "bdmcmc", and "bdmcmcbin", which are BDMCMC alrotithms for linear regression and 
 logistic regression, respectively.
 
-The file "regression simulation" contains the data generation functions for linear regression and logistic regression. Some simple 
+2.The file "regression simulation" contains the data generation functions for linear regression and logistic regression. Some simple 
 simulations are also given in the file.
+
+
+3. The file "Binary" and "gaussian" contains simulations for binary graphical models and Gaussian graphical models.
+
+4. The file "mixed graphical models" is the simulations for mixed graphical models.
